@@ -56,3 +56,4 @@ string str4 = string.Join("", test4Array);
 
 Console.WriteLine($"Исходный массив: [{str4}], максимальное количество единиц подряд: {CalcOneByOne(test4Array)}");
 Console.WriteLine();
+
