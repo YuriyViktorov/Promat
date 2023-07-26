@@ -50,3 +50,4 @@ Console.Write("Входные значения: ");
 Console.WriteLine("Результат: " + SummAndConvert(ConvertStringToInt(a3),ConvertStringToInt(b3)));
 Console.WriteLine();
 
+
